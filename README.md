@@ -21,7 +21,7 @@ Relevant Information:
 
 To run this project, you will need to install the following Python libraries:
 
-- numpy: For numerical operations and handling arrays.
+- numpy: For numerical processes.
 
 - pandas: For data manipulation and analysis.
 
@@ -31,7 +31,7 @@ To run this project, you will need to install the following Python libraries:
 
 - matplotlib: For creating plots and visualizations.
 
-- scikit-learn: For machine learning algorithms, data splitting, and metrics.
+- scikit-learn: For machine learning algorithms.
 
 - statsmodels: For statistical modeling.
 
